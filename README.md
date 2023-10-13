@@ -16,9 +16,6 @@ Led teams in training and mentorship.
 - Show the ability to recognize professional responsibilities and make informed judgments in computing practice based on legal and ethical principles.
 
 ## Work Experience
-- Cerner, HL7 Interfaces
-- Wellsky, HL7 and Instrument Interfaces
-
 ### WellSky Corporation, Overland Park, KS - Technical Consultant II
 **August 2021 - Present**
 - Consult with clients to design, build, and maintain HL7 and blood instrument interfaces.
