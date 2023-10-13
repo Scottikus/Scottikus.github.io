@@ -1,7 +1,3 @@
-<head>
-    <link rel="stylesheet" href="/assets/css/style.scss">
-</head>
-
 # Home
 
 ### Summary
