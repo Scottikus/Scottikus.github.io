@@ -1,13 +1,13 @@
 # Home
 
 ### Summary
-5 years of engineering experience.
-Proficient in CCL (Cerner Proprietary), C#, C, Java, Python (Programming Language), and SQL
-languages, and Linux operating systems.
-Experienced with Typescript
-Built methods of reviewing and auditing code for my team using Git and GitHub
-Extensive experience in Object Oriented Programming
-Led teams in training and mentorship.
+- 5 years of engineering experience.
+- Proficient in CCL (Cerner Proprietary), C#, C, Java, Python (Programming Language), and SQL
+- languages, and Linux operating systems.
+- Experienced with Typescript
+- Built methods of reviewing and auditing code for my team using Git and GitHub
+- Extensive experience in Object Oriented Programming
+- Led teams in training and mentorship.
 
 ## Education
 ### University of Central Missouri, Warrensburg, MO - B.S. Cybersecurity
