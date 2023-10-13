@@ -1,4 +1,4 @@
-# Scotty McMasters
+# Home
 
 ### Education
 B.S. Cybersecurity
