@@ -1,6 +1,5 @@
----
----
-{
-@import "{{ site.theme }}";
-background-image: url("/assets/img/Background_Test.jpg");
+@import "jekyll-theme-minimal";
+
+body {
+    background-image: url("/assets/img/Background_Test.jpg");
 }
