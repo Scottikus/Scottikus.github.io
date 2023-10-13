@@ -1,0 +1,7 @@
+# My Custom _config.yml file let's see if this works.
+
+title: Scotty McMasters
+
+logo: /assets/img/ProfilePic10132023.jpg
+
+theme: jekyll-theme-minimal
