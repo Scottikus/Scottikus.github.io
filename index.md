@@ -4,7 +4,7 @@
 
 layout: default
 ---
-# Home index
+# Home
 
 ### Summary
 - 5 years of engineering experience.
